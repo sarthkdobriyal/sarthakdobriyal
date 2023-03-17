@@ -1,6 +1,6 @@
 # Hi there! 👋 Great to see you.
 # 💫 About Me:
-🌱 I’m currently learning Web3 , building Dapps<br>👯 I’m looking to collaborate on Frontend projects, Open Source projects<br>🤝 I’m looking for help with Job Search and Open Source contributions<br>💬 Ask me about Javascript, React and Blockchain<br>⚡ Fun fact 
+🌱 I’m currently learning Web3 , building Dapps<br>👯 I’m looking to collaborate on Frontend projects, Open Source projects<br>🤝 I’m looking for help with Job Search and Open Source contributions<br>💬 Ask me about Javascript, React and Blockchain<br>
 
 
 ## 🌐 Socials:
