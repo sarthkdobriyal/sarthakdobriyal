@@ -1,5 +1,5 @@
 # Hi there! 👋 Great to see you.
-![cover](https://www.canva.com/design/DAFXeak-iRE/e1fXakfjf6GKbV6A8YnuCw/watch?utm_content=DAFXeak-iRE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![cover](https://www.canva.com/design/DAFXeak-iRE/e1fXakfjf6GKbV6A8YnuCw/view?utm_content=DAFXeak-iRE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 # 💫 About Me:
 🌱 I’m currently learning Web3 , building Dapps<br>👯 I’m looking to collaborate on Frontend projects, Open Source projects<br>🤝 I’m looking for help with Job Search and Open Source contributions<br>💬 Ask me about Javascript, React and Blockchain<br>
