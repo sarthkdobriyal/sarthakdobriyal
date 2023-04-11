@@ -3,7 +3,7 @@
 ![my cover](https://raw.githubusercontent.com/sarthkdobriyal/cover/master/Sarthak%20Dobriyal%20(1).png)
 
 # 💫 About Me:
-👋 Hello there! I'm excited to introduce myself as a software developer with a passion for web3 technologies and decentralized applications. My current focus is on learning and building Dapps using blockchain and Web3.<br><br>
+👋 Hello there! I'm excited to introduce myself as a software developer with a passion for web technologies.I have experience developing apps for the web. My current focus is on learning and building Dapps using blockchain and Web3.<br><br>
 
 🌱 Currently, I'm expanding my skill set by diving deep into Web3 technology and exploring its potential to create innovative solutions for various industries. I'm also honing my skills in building decentralized applications, smart contracts, and blockchain-based solutions.<br><br>
 
